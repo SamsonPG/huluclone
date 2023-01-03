@@ -49,7 +49,7 @@ img{
 
 .header{
     height: 550px;
-    background-image: url("/img/header.jpg");
+    background-image: url("img/header.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -231,16 +231,16 @@ text-align: center;
 }
 
 .catogories .cover-1{
-    background: url("/img/cover-1.jpg") no-repeat center center / cover;
+    background: url("img/cover-1.jpg") no-repeat center center / cover;
 }
 .catogories .cover-2{
-    background: url("/img/cover-2.jpg") no-repeat center center / cover;
+    background: url("img/cover-2.jpg") no-repeat center center / cover;
 }
 .catogories .cover-3{
-    background: url("/img/cover-3.jpg") no-repeat center center / cover;
+    background: url("img/cover-3.jpg") no-repeat center center / cover;
 }
 .catogories .cover-4{
-    background: url("/img/cover-4.jpg") no-repeat center center / cover;
+    background: url("img/cover-4.jpg") no-repeat center center / cover;
 }
 
 .live{
@@ -268,7 +268,7 @@ padding: 40px;
 }
 /*live sports*/
 .live-sports{
- background: url("/img/live-sports.jpg") no-repeat center center / cover;
+ background: url("img/live-sports.jpg") no-repeat center center / cover;
  height: 800px;
  position: relative;
 }
@@ -286,7 +286,7 @@ padding: 40px;
     justify-content: space-between;
 }
 .live-sports-logos > div{
-    background: url('/img/network-logo-bg.png') no-repeat center center / cover;
+    background: url('img/network-logo-bg.png') no-repeat center center / cover;
     height: 60px;
     width: 60px;
     display: flex;
@@ -373,7 +373,7 @@ padding: 40px;
         padding: 30px 10px;
     }
     .live-sports{
-        background: url("/img/live-sports-small.jpg") no-repeat center center/ cover;
+        background: url("img/live-sports-small.jpg") no-repeat center center/ cover;
     }
     .live-sports-content{
         top: 30px;
